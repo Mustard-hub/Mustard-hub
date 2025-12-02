@@ -21,13 +21,14 @@
 <span>```CSS```</span>
 <span>```Javascript```</span>
 <span>```C```</span>
+<span>```C#```</span>
 <span>```Python```</span>
 <span>```Doubao```</span>
 <span>```Bcut```</span><br><br>
 <span>```Lty```</span>
 <span>```YZl```</span>
 <span>```Yh```</span>
-<span>```FineArt```</span>
-<span>```Star Array```</span><br><br><hr>
+<span>```Foxwq```</span>
+<span>``````</span><br><br><hr>
 ### Contribution activity
 HomeArchbishop has no activity yet for this period.
