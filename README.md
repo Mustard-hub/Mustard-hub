@@ -19,20 +19,19 @@
 ### 💻 Tech Stack
 
 **Languages**
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=15&borderRadius=10)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=15&borderRadius=10)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=15&borderRadius=10)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&logoWidth=15&borderRadius=10)
 
 **Web Development**
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=15&borderRadius=10)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=15&borderRadius=10)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=15&borderRadius=10)
 
 **Creative & Tools**
-![](https://img.shields.io/badge/Vocaloid-BC1E38?style=flat-square&logo=v&logoColor=white)
-![](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Foxwq-Purple?style=flat-square&logo=firefox&logoColor=white)
+![](https://img.shields.io/badge/Vocaloid-BC1E38?style=for-the-badge&logo=v&logoColor=white&logoWidth=15&borderRadius=10)
+![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&logoWidth=15&borderRadius=10)
 
 ---
 
